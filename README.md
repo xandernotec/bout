@@ -1,2 +1,2 @@
 # bout
-yes
+Bout is a website
